@@ -4,7 +4,7 @@ Submission Project Akhir Dicoding 'Belajar Analisis Data dengan Python' ID Camp 
 
 ## Struktur Direktori
 -  /dataset : Direktori yang berisi semua data yang akan digunakan untuk analisis dalam bentuk format .csv
--  /streamlit : Direktori yang berisi file tampilan pengembangan dashboard dalam format .py untuk membuat dashboard hasil analisis data E-commerce
+-  dashboard.py : File yang berisi kode untuk tampilan pengembangan dashboard dalam format .py untuk membuat dashboard hasil analisis data E-commerce
 -  Submission.ipynb : File ini yang digunakan untuk melakukan analisis data.
 
 
