@@ -7,4 +7,8 @@ Submission Project Akhir Dicoding 'Belajar Analisis Data dengan Python' ID Camp 
 -  dashboard.py : File yang berisi kode untuk tampilan pengembangan dashboard dalam format .py untuk membuat dashboard hasil analisis data E-commerce
 -  Submission.ipynb : File ini yang digunakan untuk melakukan analisis data.
 
+## Setup Environment
+pip install streamlit pip install -r requirements.txt
 
+## Run Streamlit
+streamlit run dashboard.py
